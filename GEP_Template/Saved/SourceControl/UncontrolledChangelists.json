@@ -8,6 +8,8 @@
 				"D:/gep-25-26-unreal-template-JHardyman/GEP_Template/Content/Inventory/Widgets/WB_Inventory.uasset",
 				"D:/gep-25-26-unreal-template-JHardyman/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset",
 				"D:/gep-25-26-unreal-template-JHardyman/GEP_Template/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
+				"D:/gep-25-26-unreal-template-JHardyman/GEP_Template/Content/Inventory/Blueprints/S_ItemStructure.uasset",
+				"D:/gep-25-26-unreal-template-JHardyman/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
